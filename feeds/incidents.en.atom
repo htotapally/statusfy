@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com</id>
+    <title>Chatsurfer Oprational Status</title>
+    <updated>2020-06-10T14:52:26.656Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://github.com"/>
+    <link rel="self" href="https://github.com/feeds/incidents.en.atom"/>
+    <subtitle>ChatSurfer Operational Status</subtitle>
+</feed>
