@@ -1,0 +1,1 @@
+{"id":"82429a3c","title":"scheduled","date":"2020-06-09T15:55:08.023Z","modified":"2020-06-09T16:22:35.315Z","scheduled":null,"severity":"major-outage","affectedsystems":["Auth","Email","Purge","Drop"],"resolved":true,"content":"<p>Testing above systems</p>\n<!--- language code: en -->\n"}

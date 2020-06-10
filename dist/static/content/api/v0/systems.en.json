@@ -1,0 +1,1 @@
+[{"name":"Development","status":"degraded-performance","order":1},{"name":"Auth","status":"partial-outage","order":2},{"name":"Email","status":"operational","order":3},{"name":"Purge","status":"operational","order":4},{"name":"Drop","status":"operational","order":5},{"name":"expunge","status":"operational","order":6}]
